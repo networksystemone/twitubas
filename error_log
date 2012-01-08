@@ -1,0 +1,28 @@
+[12-Aug-2010 08:54:34] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:34] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:34] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'common/browser.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:35] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:35] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:35] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'common/browser.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:37] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:37] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:37] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'common/browser.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:38] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:38] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:38] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'common/browser.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:39] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:39] PHP Warning:  require(common/browser.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ubas/public_html/twit/index.php on line 10
+[12-Aug-2010 08:54:39] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'common/browser.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ubas/public_html/twit/index.php on line 10
+[04-Jan-2012 04:45:52] PHP Parse error:  syntax error, unexpected T_STRING in /home/ubas/public_html/twit/common/spreads.php on line 8
+[04-Jan-2012 04:45:59] PHP Parse error:  syntax error, unexpected T_STRING in /home/ubas/public_html/twit/common/spreads.php on line 8
+[04-Jan-2012 06:26:33] PHP Parse error:  syntax error, unexpected '<' in /home/ubas/public_html/twit/browsers/desktop.php on line 21
+[04-Jan-2012 12:58:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/ubas/public_html/twit/common/theme.php on line 254
+[04-Jan-2012 13:00:11] PHP Parse error:  syntax error, unexpected T_STRING in /home/ubas/public_html/twit/common/theme.php on line 254
+[04-Jan-2012 13:01:08] PHP Parse error:  syntax error, unexpected T_STRING in /home/ubas/public_html/twit/common/theme.php on line 254
+[04-Jan-2012 13:01:12] PHP Parse error:  syntax error, unexpected T_STRING in /home/ubas/public_html/twit/common/theme.php on line 254
+[04-Jan-2012 13:02:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/ubas/public_html/twit/common/theme.php on line 254
+[04-Jan-2012 13:02:05] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/ubas/public_html/twit/common/theme.php on line 254
+[04-Jan-2012 13:02:59] PHP Parse error:  syntax error, unexpected T_STRING in /home/ubas/public_html/twit/common/theme.php on line 254
+[04-Jan-2012 13:03:04] PHP Parse error:  syntax error, unexpected T_STRING in /home/ubas/public_html/twit/common/theme.php on line 254
+[04-Jan-2012 13:03:38] PHP Warning:  call_user_func_array() [<a href='function.call-user-func-array'>function.call-user-func-array</a>]: First argument is expected to be a valid callback, 'theme_spreads' was given in /home/ubas/public_html/twit/common/theme.php on line 20
+[04-Jan-2012 13:03:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubas/public_html/twit/common/theme.php:20) in /home/ubas/public_html/twit/common/theme.php on line 149
